@@ -75,7 +75,7 @@
                 Do not cross post questions. ...
                 Do not PM users asking for help. ...</p>
             <!-- <p class="lead"> -->
-            <p><b>Posted by: Imran</b></p>
+            <p>Posted by: <b>Imran</b></p>
             </p>
         </div>
     </div>

@@ -1,4 +1,4 @@
-<!-- Lecture done till-58  -->
+<!-- Lecture done till-60  -->
 <!doctype html>
 <html lang="en">
 
@@ -35,10 +35,10 @@
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="https://source.unsplash.com/2400x700/?student,code" class="d-block w-100" alt="...">
+                <img src="img/slider-1.jpg" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="https://source.unsplash.com/2400x700/?programmers,microsoft" class="d-block w-100" alt="...">
+                <img src="img/slider-2.jpg" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
                 <img src="https://source.unsplash.com/2400x700/?coding,amazon" class="d-block w-100" alt="...">
